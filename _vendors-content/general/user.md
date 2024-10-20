@@ -3,7 +3,7 @@ manufacturer:
     - general
 ---
 
-### Android 6+
+### infinix hot 10s
 
 Always check the following setting:
 
